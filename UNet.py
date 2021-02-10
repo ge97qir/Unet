@@ -390,7 +390,7 @@ trained_unet, y, x = train_unet()
 
 
 plt.plot(x,y)
-plt.show
+plt.show()
 
 
 # In[25]:
